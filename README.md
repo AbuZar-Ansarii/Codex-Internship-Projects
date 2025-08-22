@@ -53,15 +53,15 @@ Best Model: Naive Bayes
 Accuracy: 98.20627802690582
 
 Precision: 
-Ham : 0.98
+Ham : 0.98\n
 Spam : 0.98
 
 Recall:
-Ham : 1.00
+Ham : 1.00\n
 Spam : 0.86
 
 F1 Score:
-Ham : 0.99
+Ham : 0.99\n
 Spam : 0.91
 
 Key Features: Word frequency, special characters, message length
@@ -89,7 +89,7 @@ Handling imbalanced datasets (for spam classification)
 Interpretation of model results and feature importance
 
 ## 📋 Project Structure
-sh''
+```sh
 
 CODEX INTERNSHIP ML-Projects/
 │
