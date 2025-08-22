@@ -95,17 +95,17 @@ CODEX INTERNSHIP ML-Projects/
 │
 ├── Iris-Classification/
 │   ├── iris_classification.ipynb
-│   ├── iris_classification.py
+│   ├── iris.csv
 │   └── requirements.txt
 │
 ├── Boston-House-Price-Prediction/
 │   ├── boston_housing.ipynb
-│   ├── boston_housing.py
+│   ├── boston.csv
 │   └── requirements.txt
 │
 ├── Spam-Classification/
 │   ├── spam_classification.ipynb
-│   ├── spam_classification.py
+│   ├── spam.csv
 │   └── requirements.txt
 │
 └── README.md
