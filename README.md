@@ -53,15 +53,15 @@ Best Model: Naive Bayes
 Accuracy: 98.20627802690582
 
 Precision: 
-Ham : 0.98\n
+Ham : 0.98,  
 Spam : 0.98
 
 Recall:
-Ham : 1.00\n
+Ham : 1.00, 
 Spam : 0.86
 
 F1 Score:
-Ham : 0.99\n
+Ham : 0.99, 
 Spam : 0.91
 
 Key Features: Word frequency, special characters, message length
