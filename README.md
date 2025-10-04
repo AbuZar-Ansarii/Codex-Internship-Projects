@@ -1,3 +1,5 @@
+Certificate Link : https://drive.google.com/file/d/13moeU2u52-9FMZLDraoafYA7mLzOngkb/view?usp=drive_link
+
 ## CODEX INTERNSHIP PROJECTS
 A collection of machine learning projects demonstrating classification and regression techniques on classic datasets.
 
